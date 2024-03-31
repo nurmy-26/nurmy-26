@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning frontend technologies.
 - ✨ My goal is to master the skill of writing clean and elegant code.
 - 👀 I’m especially interested in React and the usage of ChatGPT technologies.
-- 📚 My hobbies include reading, cross-stitch and playing computer games (mostly HoYoverse).
+- 📚 My hobbies include reading, playing chess, cross-stitch and playing computer games (mostly HoYoverse).
 
 <!--- Codewars --->
 [![codewars](https://www.codewars.com/users/nurmy/badges/micro)](https://www.codewars.com/users/nurmy)  
