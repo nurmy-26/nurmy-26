@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Trying+to+improve+coding+skills...)](https://git.io/typing-svg)
 
 ### Hi there 👋
-#### I’m a beginner in frontend development, but strive to become a little better every day 😤
+#### I’m a junior front-end developer, who tries to become better every day ✨
 
-- 🌱 I’m currently learning frontend technologies.
-- ✨ My goal is to master the skill of writing clean and elegant code.
+- 🌱 I’m currently learning frontend technologies with some backend basics.
+- 🌠 My goal is to master the skill of writing clean and elegant code in order to create applications that are easy to maintain.
 - 👀 I’m especially interested in React and the usage of ChatGPT technologies.
 - 📚 My hobbies include reading, playing chess, cross-stitch and playing computer games (mostly HoYoverse).
 
@@ -30,6 +30,10 @@
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
