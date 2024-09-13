@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning frontend technologies with some backend basics.
 - 🌠 My goal is to master the skill of writing clean and elegant code in order to create applications that are easy to maintain.
 - 👀 I’m especially interested in React and the usage of ChatGPT technologies.
-- 📚 My hobbies include reading, cross-stitch, playing chess and computer games (mostly HoYoverse).
+- 📚 My hobbies include reading, cross-stitch, cultivating succulents and computer games (mostly HoYoverse).
 
 #### 📫 How to reach me?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nurmy26)
