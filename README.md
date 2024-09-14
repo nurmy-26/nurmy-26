@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Trying+to+improve+coding+skills...)](https://git.io/typing-svg)
 
 ### Hi there 👋
-#### I’m a junior front-end developer, who tries to become better every day ✨
+#### I’m a front-end developer, who tries to become better every day ✨
 
 - 🌱 I’m currently learning frontend technologies with some backend basics.
 - 🌠 My goal is to master the skill of writing clean and elegant code in order to create applications that are easy to maintain.
