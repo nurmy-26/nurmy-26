@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Trying+to+improve+coding+skills...)](https://git.io/typing-svg)
 
 ### Hi there 👋
-#### I’m a front-end developer, who tries to become better every day ✨
+#### I’m a front-end developer, constantly evolving and refining my craft ✨
 
-- 🌱 I’m currently learning frontend technologies with some backend basics.
-- 🌠 My goal is to master the skill of writing clean and elegant code in order to create applications that are easy to maintain.
-- 👀 I’m especially interested in React and the usage of ChatGPT technologies.
-- 📚 My hobbies include reading, cross-stitch, cultivating succulents and playing computer games (mostly HoYoverse).
+- 💼 **Work**: Leveling up my skills daily at a great team.  
+- 🌱 **Experience**: Deepening my frontend expertise while exploring backend basics.  
+- 🌠 **Goal**: Writing clean, elegant code to create delightful applications, that are easy to maintain.
+- 👀 **Passionate** about React, AI-powered dev tools and intuitive UX.
+- 📚 **Hobbies**: Reading, cross-stitch, cultivating succulents and HoYoverse games.
+
 
 #### 📫 How to reach me?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nurmy26)
